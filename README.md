@@ -1,4 +1,4 @@
 # etc-miner
-##Authors
+## Authors
 1. Moses Kevin
 2. Jeffrey Kirigo
